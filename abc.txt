@@ -1,2 +1,2 @@
 hi hello everyone
-when x=12
+when x=10
